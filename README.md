@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Microservice, REST API, Python, Dashboard Making, HTML, CSS,**
 
-- 📫 How to reach me **singhbobb+github290@gmail.com**
+- 📫 How to reach me **singhbobb290+github@gmail.com**
 
 - ⚡ Fun fact **Definitely not funny.**
 
